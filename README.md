@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/VarunRaj060204/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/VarunRaj060204/DSA/tree/master/0009-palindrome-number) |
 ## Binary Search
 |  |
 | ------- |
