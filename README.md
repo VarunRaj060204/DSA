@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/VarunRaj060204/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/VarunRaj060204/DSA/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/VarunRaj060204/DSA/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VarunRaj060204/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VarunRaj060204/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VarunRaj060204/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/VarunRaj060204/DSA/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/VarunRaj060204/DSA/tree/master/0900-reordered-power-of-2) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/VarunRaj060204/DSA/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/VarunRaj060204/DSA/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/VarunRaj060204/DSA/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/VarunRaj060204/DSA/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
