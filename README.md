@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VarunRaj060204/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VarunRaj060204/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/VarunRaj060204/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/VarunRaj060204/DSA/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/VarunRaj060204/DSA/tree/master/0900-reordered-power-of-2) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/VarunRaj060204/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/VarunRaj060204/DSA/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
