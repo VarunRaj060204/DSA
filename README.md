@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/VarunRaj060204/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/VarunRaj060204/DSA/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarunRaj060204/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VarunRaj060204/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VarunRaj060204/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/VarunRaj060204/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/VarunRaj060204/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/VarunRaj060204/DSA/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/VarunRaj060204/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/VarunRaj060204/DSA/tree/master/0900-reordered-power-of-2) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VarunRaj060204/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/VarunRaj060204/DSA/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VarunRaj060204/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VarunRaj060204/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
