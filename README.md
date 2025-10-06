@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/VarunRaj060204/DSA/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/VarunRaj060204/DSA/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/VarunRaj060204/DSA/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/VarunRaj060204/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/VarunRaj060204/DSA/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VarunRaj060204/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/VarunRaj060204/DSA/tree/master/0940-fruit-into-baskets) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/VarunRaj060204/DSA/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/VarunRaj060204/DSA/tree/master/0794-swim-in-rising-water) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VarunRaj060204/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/VarunRaj060204/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/VarunRaj060204/DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/VarunRaj060204/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VarunRaj060204/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/VarunRaj060204/DSA/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/VarunRaj060204/DSA/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarunRaj060204/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/VarunRaj060204/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/VarunRaj060204/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/VarunRaj060204/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/VarunRaj060204/DSA/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/VarunRaj060204/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/VarunRaj060204/DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/VarunRaj060204/DSA/tree/master/2429-design-a-food-rating-system) |
@@ -302,8 +306,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/VarunRaj060204/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VarunRaj060204/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/VarunRaj060204/DSA/tree/master/0794-swim-in-rising-water) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/VarunRaj060204/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/VarunRaj060204/DSA/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/VarunRaj060204/DSA/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
