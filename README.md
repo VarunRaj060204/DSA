@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/VarunRaj060204/DSA/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VarunRaj060204/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VarunRaj060204/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/VarunRaj060204/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/VarunRaj060204/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/VarunRaj060204/DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/VarunRaj060204/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VarunRaj060204/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VarunRaj060204/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VarunRaj060204/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/VarunRaj060204/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/VarunRaj060204/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/VarunRaj060204/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VarunRaj060204/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarunRaj060204/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Heap (Priority Queue)
 |  |
