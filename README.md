@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/VarunRaj060204/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VarunRaj060204/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/VarunRaj060204/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VarunRaj060204/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VarunRaj060204/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/VarunRaj060204/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VarunRaj060204/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/VarunRaj060204/DSA/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/VarunRaj060204/DSA/tree/master/0679-24-game) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VarunRaj060204/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/VarunRaj060204/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
