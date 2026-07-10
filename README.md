@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VarunRaj060204/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VarunRaj060204/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VarunRaj060204/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VarunRaj060204/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VarunRaj060204/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VarunRaj060204/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VarunRaj060204/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/VarunRaj060204/DSA/tree/master/2689-rearranging-fruits) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/VarunRaj060204/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VarunRaj060204/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VarunRaj060204/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/VarunRaj060204/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/VarunRaj060204/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/VarunRaj060204/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/VarunRaj060204/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VarunRaj060204/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VarunRaj060204/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/VarunRaj060204/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-network-recovery-pathways](https://github.com/VarunRaj060204/DSA/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/VarunRaj060204/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/VarunRaj060204/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/VarunRaj060204/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/VarunRaj060204/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VarunRaj060204/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VarunRaj060204/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VarunRaj060204/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/VarunRaj060204/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/VarunRaj060204/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/VarunRaj060204/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/VarunRaj060204/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VarunRaj060204/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VarunRaj060204/DSA/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/VarunRaj060204/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarunRaj060204/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -325,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/VarunRaj060204/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VarunRaj060204/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/VarunRaj060204/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VarunRaj060204/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/VarunRaj060204/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/VarunRaj060204/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VarunRaj060204/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -475,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/VarunRaj060204/DSA/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VarunRaj060204/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/VarunRaj060204/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VarunRaj060204/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -531,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VarunRaj060204/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VarunRaj060204/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VarunRaj060204/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VarunRaj060204/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VarunRaj060204/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
