@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/VarunRaj060204/DSA/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/VarunRaj060204/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VarunRaj060204/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/VarunRaj060204/DSA/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/VarunRaj060204/DSA/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/VarunRaj060204/DSA/tree/master/0679-24-game) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/VarunRaj060204/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/VarunRaj060204/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/VarunRaj060204/DSA/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/VarunRaj060204/DSA/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/VarunRaj060204/DSA/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/VarunRaj060204/DSA/tree/master/0867-new-21-game) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/VarunRaj060204/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/VarunRaj060204/DSA/tree/master/0120-triangle) |
+| [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
 | [0867-new-21-game](https://github.com/VarunRaj060204/DSA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VarunRaj060204/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VarunRaj060204/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/VarunRaj060204/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/VarunRaj060204/DSA/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/VarunRaj060204/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
