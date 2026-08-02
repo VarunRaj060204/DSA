@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/VarunRaj060204/DSA/tree/master/0679-24-game) |
 | [0794-swim-in-rising-water](https://github.com/VarunRaj060204/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/VarunRaj060204/DSA/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/VarunRaj060204/DSA/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VarunRaj060204/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/VarunRaj060204/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/VarunRaj060204/DSA/tree/master/1006-vowel-spellchecker) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/VarunRaj060204/DSA/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/VarunRaj060204/DSA/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/VarunRaj060204/DSA/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/VarunRaj060204/DSA/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/VarunRaj060204/DSA/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/VarunRaj060204/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VarunRaj060204/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/VarunRaj060204/DSA/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
 | [0867-new-21-game](https://github.com/VarunRaj060204/DSA/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/VarunRaj060204/DSA/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VarunRaj060204/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VarunRaj060204/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1301-number-of-paths-with-max-score](https://github.com/VarunRaj060204/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/VarunRaj060204/DSA/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/VarunRaj060204/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
