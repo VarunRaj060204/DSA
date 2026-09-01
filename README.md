@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VarunRaj060204/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VarunRaj060204/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/VarunRaj060204/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/VarunRaj060204/DSA/tree/master/1927-sum-game) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VarunRaj060204/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/VarunRaj060204/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/VarunRaj060204/DSA/tree/master/2689-rearranging-fruits) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/VarunRaj060204/DSA/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/VarunRaj060204/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VarunRaj060204/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/VarunRaj060204/DSA/tree/master/1927-sum-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/VarunRaj060204/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VarunRaj060204/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VarunRaj060204/DSA/tree/master/2288-count-operations-to-obtain-zero) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VarunRaj060204/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VarunRaj060204/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/VarunRaj060204/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1927-sum-game](https://github.com/VarunRaj060204/DSA/tree/master/1927-sum-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VarunRaj060204/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VarunRaj060204/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VarunRaj060204/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VarunRaj060204/DSA/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/VarunRaj060204/DSA/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/VarunRaj060204/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
