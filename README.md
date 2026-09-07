@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/VarunRaj060204/DSA/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/VarunRaj060204/DSA/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/VarunRaj060204/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/VarunRaj060204/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VarunRaj060204/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1301-number-of-paths-with-max-score](https://github.com/VarunRaj060204/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarunRaj060204/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/VarunRaj060204/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VarunRaj060204/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0657-robot-return-to-origin](https://github.com/VarunRaj060204/DSA/tree/master/0657-robot-return-to-origin) |
+| [0940-distinct-subsequences-ii](https://github.com/VarunRaj060204/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/VarunRaj060204/DSA/tree/master/1006-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VarunRaj060204/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VarunRaj060204/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
