@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/VarunRaj060204/DSA/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/VarunRaj060204/DSA/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/VarunRaj060204/DSA/tree/master/0836-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/VarunRaj060204/DSA/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/VarunRaj060204/DSA/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/VarunRaj060204/DSA/tree/master/0900-reordered-power-of-2) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/VarunRaj060204/DSA/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/VarunRaj060204/DSA/tree/master/0836-rectangle-overlap) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VarunRaj060204/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
 |  |
