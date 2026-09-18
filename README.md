@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/VarunRaj060204/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/VarunRaj060204/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VarunRaj060204/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VarunRaj060204/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1612-avoid-flood-in-the-city](https://github.com/VarunRaj060204/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/VarunRaj060204/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/VarunRaj060204/DSA/tree/master/2023-design-movie-rental-system) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/VarunRaj060204/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VarunRaj060204/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/VarunRaj060204/DSA/tree/master/1448-maximum-69-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VarunRaj060204/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1612-avoid-flood-in-the-city](https://github.com/VarunRaj060204/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VarunRaj060204/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VarunRaj060204/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/VarunRaj060204/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/VarunRaj060204/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/VarunRaj060204/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VarunRaj060204/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VarunRaj060204/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VarunRaj060204/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VarunRaj060204/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VarunRaj060204/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/VarunRaj060204/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VarunRaj060204/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VarunRaj060204/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VarunRaj060204/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/VarunRaj060204/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1927-sum-game](https://github.com/VarunRaj060204/DSA/tree/master/1927-sum-game) |
