@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/VarunRaj060204/DSA/tree/master/1006-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VarunRaj060204/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/VarunRaj060204/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VarunRaj060204/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VarunRaj060204/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/VarunRaj060204/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VarunRaj060204/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VarunRaj060204/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/VarunRaj060204/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VarunRaj060204/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/VarunRaj060204/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VarunRaj060204/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VarunRaj060204/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -671,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VarunRaj060204/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VarunRaj060204/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
