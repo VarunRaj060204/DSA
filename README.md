@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/VarunRaj060204/DSA/tree/master/2169-simple-bank-system) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VarunRaj060204/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VarunRaj060204/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VarunRaj060204/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VarunRaj060204/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/VarunRaj060204/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VarunRaj060204/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/VarunRaj060204/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VarunRaj060204/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VarunRaj060204/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VarunRaj060204/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VarunRaj060204/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/VarunRaj060204/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/VarunRaj060204/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/VarunRaj060204/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VarunRaj060204/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VarunRaj060204/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VarunRaj060204/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VarunRaj060204/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2906-construct-product-matrix](https://github.com/VarunRaj060204/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VarunRaj060204/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -680,4 +683,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VarunRaj060204/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunRaj060204/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VarunRaj060204/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
