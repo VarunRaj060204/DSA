@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/VarunRaj060204/DSA/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/VarunRaj060204/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/VarunRaj060204/DSA/tree/master/2906-construct-product-matrix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VarunRaj060204/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VarunRaj060204/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VarunRaj060204/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VarunRaj060204/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/VarunRaj060204/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VarunRaj060204/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/VarunRaj060204/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VarunRaj060204/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/VarunRaj060204/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/VarunRaj060204/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VarunRaj060204/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VarunRaj060204/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VarunRaj060204/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VarunRaj060204/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VarunRaj060204/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
