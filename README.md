@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/VarunRaj060204/DSA/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/VarunRaj060204/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/VarunRaj060204/DSA/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VarunRaj060204/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VarunRaj060204/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VarunRaj060204/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VarunRaj060204/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/VarunRaj060204/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/VarunRaj060204/DSA/tree/master/2689-rearranging-fruits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VarunRaj060204/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VarunRaj060204/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VarunRaj060204/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/VarunRaj060204/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VarunRaj060204/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/VarunRaj060204/DSA/tree/master/1622-fancy-sequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VarunRaj060204/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/VarunRaj060204/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/VarunRaj060204/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/VarunRaj060204/DSA/tree/master/3791-fruits-into-baskets-iii) |
@@ -727,4 +730,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VarunRaj060204/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunRaj060204/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VarunRaj060204/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VarunRaj060204/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
