@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/VarunRaj060204/DSA/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/VarunRaj060204/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/VarunRaj060204/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/VarunRaj060204/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/VarunRaj060204/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VarunRaj060204/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VarunRaj060204/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/VarunRaj060204/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VarunRaj060204/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VarunRaj060204/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/VarunRaj060204/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VarunRaj060204/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VarunRaj060204/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/VarunRaj060204/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
