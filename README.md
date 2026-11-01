@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VarunRaj060204/DSA/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/VarunRaj060204/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/VarunRaj060204/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/VarunRaj060204/DSA/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VarunRaj060204/DSA/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/VarunRaj060204/DSA/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/VarunRaj060204/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VarunRaj060204/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0301-remove-invalid-parentheses](https://github.com/VarunRaj060204/DSA/tree/master/0301-remove-invalid-parentheses) |
