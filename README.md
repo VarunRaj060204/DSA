@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/VarunRaj060204/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VarunRaj060204/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VarunRaj060204/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VarunRaj060204/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/VarunRaj060204/DSA/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/VarunRaj060204/DSA/tree/master/0611-valid-triangle-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/VarunRaj060204/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/VarunRaj060204/DSA/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VarunRaj060204/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VarunRaj060204/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/VarunRaj060204/DSA/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/VarunRaj060204/DSA/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/VarunRaj060204/DSA/tree/master/0830-largest-triangle-area) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VarunRaj060204/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/VarunRaj060204/DSA/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/VarunRaj060204/DSA/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/VarunRaj060204/DSA/tree/master/1018-largest-perimeter-triangle) |
